@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+        <body>
+            <h1>Ekezie precious</h1>
+            <img src="./Screenshot 2024-06-21 162241 .png"/>
+            <h2>Summary</h2>
+            <h5>I am a smart and hardworking individual with experience in customer support and web development </h5>
+            <hr/>
+            <h1> Education</h1>
+            <ul>
+                <li>Bachelor of Education (b.Ad)2016-2020. Imo State University </li> 
+            </ul>                                                   
+              <hr/>
+             <h1>Work Experience</h1>
+             <ul>
+              <li><h3>Customer support at Datapex drifty technology</h3></li>
+             <h4>July 2023 - Present</h4>
+              <hr/>
+                <li>Handled the official social media account of the company</li>
+                <li>Received and resolved daily complaints, issues and request from clients</li>
+                <li>Managed and helped in overseeing the growth of the account</li>
+                <li><h3>Community and Development Training</h3></li>
+              <h4>August 2023 - December 2023</h4>
+                <li>Counseled consumers on how to enforce their right and how to reduce imbalances between them and businesses.</li>
+            </ul>
+    </head>
+</html>
